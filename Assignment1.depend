@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1568991907 source:c:\users\tasfi\onedrive\desktop\assignment1\function.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<iomanip>
+	"extention.h"
+
+1568991907 c:\users\tasfi\onedrive\desktop\assignment1\extention.h
+
+1568991907 source:c:\users\tasfi\onedrive\desktop\assignment1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<iomanip>
+	"extention.h"
+
+1568991907 source:c:\users\tasfi\onedrive - university of wollongong\uow\uow\semester 3\csci251_advance_programming\assignment\assignment1\function.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<iomanip>
+	"extention.h"
+
+1568991907 c:\users\tasfi\onedrive - university of wollongong\uow\uow\semester 3\csci251_advance_programming\assignment\assignment1\extention.h
+
+1568991907 source:c:\users\tasfi\onedrive - university of wollongong\uow\uow\semester 3\csci251_advance_programming\assignment\assignment1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<bits/stdc++.h>
+	<iomanip>
+	"extention.h"
+
